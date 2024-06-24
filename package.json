@@ -1,0 +1,18 @@
+{
+  "name": "pumpkin-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "styles": "gulp styles"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-less": "^5.0.0",
+    "less": "^4.1.1",
+    "gulp-mkdir": "^1.0.0"
+  }
+}
