@@ -1,4 +1,5 @@
 # Pumpkin Shop
+![shop-logo-full](https://github.com/karolinadornelas/pumpkin-shop/assets/82829660/f12d9882-6504-486c-8393-0e04aba1e3b4)
 
 ## Descrição
 
